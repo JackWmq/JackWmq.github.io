@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://jackwmq.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Nov 2025 23:31:02 +0800</lastBuildDate>
+    <atom:link href="https://jackwmq.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://jackwmq.github.io/posts/hello-world/</link>
+      <pubDate>Sat, 22 Nov 2025 23:31:02 +0800</pubDate>
+      <guid>https://jackwmq.github.io/posts/hello-world/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m currently a second-year undergraduate student at the School of EECS, Peking University, advised by Prof. Zemin Zhang. I&amp;rsquo;m interested in bioinformatics and AI for science.&lt;/p&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;2025.9 - now&lt;/em&gt; &lt;strong&gt;Undergraduate in Information and Computing Science&lt;/strong&gt; | &lt;a href=&#34;https://eecs.pku.edu.cn/&#34;&gt;School of EECS, Peking University, China.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;2024.9 - 2025.7&lt;/em&gt; &lt;strong&gt;Undergraduate in Bioinformatics&lt;/strong&gt; | &lt;a href=&#34;https://www.bio.pku.edu.cn/&#34;&gt;School of Life Science, Peking University, China.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;2018.9 - 2024.6&lt;/em&gt; &lt;strong&gt;Student&lt;/strong&gt; | &lt;a href=&#34;https://www.sdsz.com.cn/&#34;&gt;The Experimental High School Attached to Beijing Normal University, China.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;p&gt;(Empty)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
